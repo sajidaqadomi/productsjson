@@ -5,23 +5,23 @@
                 {
                     "name":"Caramel Glam",
                     "deg":100,
-                   " backgroundColor":" #f68e88"
+                   "backgroundColor":"#f68e88"
                 },
                 {
                     "name":"Truffle",
                     "deg":101,
-                   " backgroundColor":"#c6616b"
+                   "backgroundColor":"#c6616b"
                 },
     
                 {
                     "name":"RoseCream ",
                     "deg":103,
-                   " backgroundColor":" #d84f5d"
+                   "backgroundColor":"#d84f5d"
                 },
                 {
                     "name":"Caramel Glam",
                     "deg":104,
-                   " backgroundColor":" #f68e88"
+                   "backgroundColor":"#f68e88"
                 }
             ]},
             {"selectedimg":{
