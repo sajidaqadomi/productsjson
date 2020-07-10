@@ -1,7 +1,7 @@
 
     {
         "lips":[
-            {"colors":[
+            "colors":[
                 {
                     "name":"Caramel Glam",
                     "deg":100,
@@ -23,13 +23,13 @@
                     "deg":104,
                    " backgroundColor":" #f68e88"
                 }
-            ]},
-            {"selectedimg":{
+            ],
+            "selectedimg":{
                 "src":"img/latte-pic.jpg",
                 "srcset":"img/latte-pic@2x.jpg 2x, img/latte-pic@3x.jpg 3x",
                 "name":"Latte",
                 "deg":"102"
-            }}
+            }
             
            
 ]
