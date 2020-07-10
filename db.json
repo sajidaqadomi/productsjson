@@ -25,8 +25,8 @@
                 }
             ]},
             {"selectedimg":{
-                "src":"img/latte-pic.jpg",
-                "srcset":"img/latte-pic@2x.jpg 2x, img/latte-pic@3x.jpg 3x",
+                "src":"imgs/latte-pic.jpg",
+                "srcset":"imgs/latte-pic@2x.jpg 2x, imgs/latte-pic@3x.jpg 3x",
                 "name":"Latte",
                 "deg":"102"
             }}
