@@ -42,22 +42,26 @@
        "lipstickimgs":[
            {
                 "src":"imgs/joli-color-matte-lipstick.jpg",
-                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x"
+                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x",
+                "class":"Joli_Color_Matte-lipstick"
                
            },
           {
                 "src":"imgs/joli-color-matte-lipstick.jpg",
-                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x"
+                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x",
+                "class":"Joli_Color_Matte-lipstick"
                
            },
           {
                 "src":"imgs/joli-color-matte-lipstick.jpg",
-                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x"
+                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x",
+                "class":"Joli_Color_Matte-lipstick"
                
            },
            {
                 "src":"imgs/joli-color-matte-lipstick.jpg",
-                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x"
+                "srcset":"imgs/joli-color-matte-lipstick@2x.jpg 2x,imgs/joli-color-matte-lipstick@3x.jpg 3x",
+                "class":"Joli_Color_Matte-lipstick"
                
            }
        ]
