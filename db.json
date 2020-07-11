@@ -22,7 +22,13 @@
                     "name":"Cappuccino",
                     "deg":104,
                    "backgroundColor":"#ae6a5f"
+                },
+                 {
+                    "name":"RoseCream ",
+                    "deg":103,
+                   "backgroundColor":"#d84f5d"
                 }
+                
             ]},
             {"selectedimg":{
                 "src":"imgs/latte-pic.jpg",
