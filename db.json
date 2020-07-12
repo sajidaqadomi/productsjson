@@ -93,6 +93,13 @@
                 "name":"Nail polish remover with Provitamin B5",
                 "type":"Quiz Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE"
+             },
+              {
+                "src":"imgs/supergloss-lipgloss.jpg",
+                "srcset":"imgs/supergloss-lipgloss@2x.jpg 2x,imgs/supergloss-lipgloss@3x.jpg 3x",
+                "name":"Supergloss lipgloss",
+                "type":"wibo",
+                "mark":"PRODUCTS FROM THE LINE"
              }
          ]
         
