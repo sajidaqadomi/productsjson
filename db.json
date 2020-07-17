@@ -68,40 +68,63 @@
          "relateditems":[
            {
                 "src":"imgs/metallic-lip-gloss.jpg",
-                "srcset":"imgs/metallic-lip-gloss@2x.jpg 2x,imgs/metallic-lip-gloss@3x.jpg 3x",
                 "name":"Metallic Lip Gloss",
                 "type":"Quiz Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE"
              },
              {
                 "src":"imgs/supergloss-lipgloss.jpg",
-                "srcset":"imgs/supergloss-lipgloss@2x.jpg 2x,imgs/supergloss-lipgloss@3x.jpg 3x",
                 "name":"Supergloss lipgloss",
                 "type":"wibo",
                 "mark":"PRODUCTS FROM THE LINE"
              },
              {
                 "src":"imgs/glance-shine-lipgloss.jpg",
-                "srcset":"imgs/glance-shine-lipgloss@2x.jpg 2x, imgs/glance-shine-lipgloss@3x.jpg 3x",
                 "name":"Glance Shine lipgloss",
                 "type":"NOUBA",
                 "mark":"PRODUCTS FROM THE LINE"
              },
              {
                 "src":"imgs/nail-polish.jpg",
-                "srcset":"imgs/nail-polish@2x.jpg 2x,imgs/nail-polish@3x.jpg 3x",
                 "name":"Nail polish remover with Provitamin B5",
                 "type":"Quiz Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE"
              },
               {
                 "src":"imgs/supergloss-lipgloss.jpg",
-                "srcset":"imgs/supergloss-lipgloss@2x.jpg 2x,imgs/supergloss-lipgloss@3x.jpg 3x",
                 "name":"Supergloss lipgloss",
                 "type":"wibo",
                 "mark":"PRODUCTS FROM THE LINE"
              }
-         ]
+         ],
+        "bestItems":[
+            {
+                "src":"imgs/product-img1.jpg",
+                "name":"FRUIT FANTASY BODY",
+                "type":"wiboJoanna Cosmetic Laboratory",
+                "mark":"PRODUCTS FROM THE LINE"
+             },
+             {
+                "src":"imgs/product-img2.jpg",
+                "name":"Joli Color Shine long lasting lipstick",
+                "type":"QUIZ Cosmetics",
+                "mark":"PRODUCTS FROM THE LINE"
+             },
+             {
+                "src":"imgs/product-img3.jpg",
+                "name":"Burlesque",
+                "type":"wibo",
+                "mark":"PRODUCTS FROM THE LINE"
+             }, 
+            {
+                "src":"imgs/product-img4.jpg",
+                "name":"TO MATTIFY",
+                "type":"NOUBA",
+                "mark":"PRODUCTS FROM THE LINE"
+             }
+            
+            
+        ]
         
     }
 
