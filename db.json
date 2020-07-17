@@ -130,6 +130,32 @@
              }
             
             
+        ],
+        "categories":[
+            {
+                "src":"imgs/categories/hair-products.svg",
+                "name":"Hair Products"
+            },
+            {
+                "src":"imgs/categories/face.svg",
+                "name":"FACE"
+            },
+            {
+                "src":"imgs/categories/eyes.svg",
+                "name":"EYES"
+            },
+            {
+                "src":"imgs/categories/lips-nails.svg",
+                "name":"LIPS & NAILS"
+            },
+            {
+                "src":"imgs/categories/skin-care.svg",
+                "name":"SKIN CARE"
+            },
+            {
+                "src":"imgs/categories/for-men.svg",
+                "name":"For Men"
+            }
         ]
         
     }
