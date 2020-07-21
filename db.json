@@ -71,35 +71,35 @@
                 "name":"Metallic Lip Gloss",
                 "type":"Quiz Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
              {
                 "src":"imgs/supergloss-lipgloss.jpg",
                 "name":"Supergloss lipgloss",
                 "type":"wibo",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
              {
                 "src":"imgs/glance-shine-lipgloss.jpg",
                 "name":"Glance Shine lipgloss",
                 "type":"NOUBA",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
              {
                 "src":"imgs/nail-polish.jpg",
                 "name":"Nail polish remover with Provitamin B5",
                 "type":"Quiz Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
               {
                 "src":"imgs/supergloss-lipgloss.jpg",
                 "name":"Supergloss lipgloss",
                 "type":"wibo",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              }
          ],
         "bestItems":[
@@ -108,35 +108,35 @@
                 "name":"FRUIT FANTASY BODY",
                 "type":"wiboJoanna Cosmetic Laboratory",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
              {
                 "src":"imgs/product-img2.jpg",
                 "name":"Joli Color Shine long lasting lipstick",
                 "type":"QUIZ Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
              {
                 "src":"imgs/product-img3.jpg",
                 "name":"Burlesque",
                 "type":"wibo",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              }, 
             {
                 "src":"imgs/product-img4.jpg",
                 "name":"TO MATTIFY",
                 "type":"NOUBA",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              },
              {
                 "src":"imgs/product-img1.jpg",
                 "name":"FRUIT FANTASY BODY",
                 "type":"wiboJoanna Cosmetic Laboratory",
                 "mark":"PRODUCTS FROM THE LINE",
-                "m-mark":"LINE PRODUCTS"
+                "mobilemark":"LINE PRODUCTS"
              }
             
             
