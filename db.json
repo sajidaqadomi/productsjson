@@ -202,56 +202,11 @@
                 "type":"Quiz Cosmetics",
                 "mark":"PRODUCTS FROM THE LINE",
                 "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img6.jpg",
-                "name":"High Gloss",
-                "type":"Wibo",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img7.jpg",
-                "name":"Nail polish remover with Provitamin B5",
-                "type":"Quiz Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img8.jpg",
-                "name":"Nail Spa Serum",
-                "type":"Wibo",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-            {
-                "src":"imgs/plp/img9.jpg",
-                "name":"Juicy Color",
-                "type":"Wibo",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img10.jpg",
-                "name":"Magic Lipstick",
-                "type":"Quiz Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img11.jpg",
-                "name":"Color Mini nail polish",
-                "type":"Wibo",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img12.jpg",
-                "name":"Color Mini nail polish",
-                "type":"Quiz Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
              }
+           
+        
+            
+            
         ]
         
     }
