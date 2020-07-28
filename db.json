@@ -166,48 +166,9 @@
                 "src":"imgs/categories/for-men.svg",
                 "name":"For Men"
             }
-        ],
-        "quizcosmetics":[
-            {
-                "src":"imgs/plp/img1.jpg",
-                "name":"Maxi Mat Lip Gloss Pudra",
-                "type":"Pudra Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-            {
-                "src":"imgs/plp/img2.jpg",
-                "name":"Joli Color Shine long lasting lipstick",
-                "type":"Quiz Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-            {
-                "src":"imgs/plp/img3.jpg",
-                "name":"Lip Gloss Pudra",
-                "type":"Pudra Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img4.jpg",
-                "name":"Lip Gloss Pudra",
-                "type":"Pudra Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             },
-             {
-                "src":"imgs/plp/img5.jpg",
-                "name":"Joli Color Shine nail polish",
-                "type":"Quiz Cosmetics",
-                "mark":"PRODUCTS FROM THE LINE",
-                "mobilemark":"LINE PRODUCTS"
-             }
-           
-        
-            
-            
         ]
+       
+               
         
     }
 
